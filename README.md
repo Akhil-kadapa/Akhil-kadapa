@@ -38,7 +38,7 @@ AI-powered grant discovery platform that matches nonprofit organizations with fu
 - Precision@K, Recall@K, Hit Rate & MRR benchmarking
 - AI-generated grant summaries
 
-**Tech Expertise**
+**Tech Skills**
 
 `Python`
 `Sentence Transformers`
@@ -67,7 +67,7 @@ Production-ready Retrieval-Augmented Generation system supporting multilingual d
 - Retrieval pipeline
 - PDF document intelligence
 
-**Tech Expertise**
+**Tech Skills**
 
 `Python`
 `FAISS`
@@ -93,7 +93,7 @@ LLM-powered resume screening application for intelligent candidate evaluation.
 - AI-generated evaluation
 - Automated screening workflow
 
-**Tech Expertise**
+**Tech Skills**
 
 `Python`
 `Google Gemini`
@@ -106,7 +106,7 @@ https://github.com/Akhil-kadapa/resume-screening-agent
 
 ---
 
-# 💻 Technical Skills
+# 💻 Technical Expertise
 
 ### Programming
 
@@ -155,14 +155,6 @@ https://github.com/Akhil-kadapa/resume-screening-agent
 - VS Code
 - Git
 - GitHub
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhil-kadapa&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-kadapa&layout=compact&theme=github_dark)
 
 ---
 
