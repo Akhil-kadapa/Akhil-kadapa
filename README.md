@@ -67,7 +67,7 @@ Production-ready Retrieval-Augmented Generation system supporting multilingual d
 - Retrieval pipeline
 - PDF document intelligence
 
-**Tech Stack**
+**Tech Expertise**
 
 `Python`
 `FAISS`
