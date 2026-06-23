@@ -16,7 +16,6 @@ Building production-ready AI applications powered by Large Language Models, Retr
 - 🤖 Passionate about LLMs, AI Agents, and Information Retrieval
 - 🔍 Specialized in Semantic Search & Retrieval-Augmented Generation (RAG)
 - 🏗️ Building production-ready AI applications
-- 🌱 Currently learning **LLM Evaluation, AI Agents, FastAPI, Docker & MLOps**
 - 💼 Seeking **AI Engineer / Generative AI Engineer / Machine Learning Engineer** opportunities
 
 ---
