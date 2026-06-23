@@ -38,7 +38,7 @@ AI-powered grant discovery platform that matches nonprofit organizations with fu
 - Precision@K, Recall@K, Hit Rate & MRR benchmarking
 - AI-generated grant summaries
 
-**Tech Stack**
+**Tech Expertise**
 
 `Python`
 `Sentence Transformers`
@@ -93,7 +93,7 @@ LLM-powered resume screening application for intelligent candidate evaluation.
 - AI-generated evaluation
 - Automated screening workflow
 
-**Tech Stack**
+**Tech Expertise**
 
 `Python`
 `Google Gemini`
@@ -174,17 +174,6 @@ https://github.com/Akhil-kadapa/resume-screening-agent
 - Introduction to Machine Learning (Coursera)
 - Python Programming (Internshala)
 - Fundamentals of Agile Methodology with DevOps Integration (L&T EduTech)
-
----
-
-# 🎯 Currently Learning
-
-- LLM Evaluation Frameworks
-- AI Agents
-- FastAPI
-- Docker
-- MLOps
-- Cloud Deployment
 
 ---
 
